@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Icon=
+Name=Startup Script
+Name[en]=Startup Script
+Name[en_US]=Startup Script
+Name[en_US.UTF-8]=Startup Script
+Comment=Script for applications/scripts to run at start up.
+Comment[en]=Script for applications/scripts to run at start up.
+Comment[en_US]=Script for applications/scripts to run at start up.
+Comment[en_US.UTF-8]=Script for applications/scripts to run at start up.
+Categories=Accessories
+Exec=distrobox-enter void-c
+Hidden=false
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+
